@@ -8,7 +8,7 @@ text
 Terraform v1.14.7
 on linux_amd64
 
-![tm-1](tm-1.png)
+![tm_1](tm_1.png)
 
 
 2. Клонирование репозитория и переход в 01/src
