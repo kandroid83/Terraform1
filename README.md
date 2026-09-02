@@ -8,7 +8,7 @@ text
 Terraform v1.14.7
 on linux_amd64
 
-[Скриншот Terraform-1](Terraform-1.png)
+![Terraform-1](Terraform-1.png)
 
 2. Клонирование репозитория и переход в 01/src
 Репозиторий скачан с GitHub (ZIP-архив). Рабочая директория:
